@@ -1,1 +1,1 @@
-# Python Project
+Involves analyzing medical data such as patient demographics, vital signs, and medical history to create predictive models. These models can help identify individuals at higher risk of developing heart disease.
